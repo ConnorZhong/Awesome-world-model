@@ -4,8 +4,8 @@ This is a collection of research papers for world model
 ```
 - Wolrd Model
 |- Generalization
-||- Dreamer branch
-|- Architecture
+|- Dynamic Modeling
+|- Representation Learning
 - Utilities
 ```
 
@@ -17,13 +17,35 @@ This is a collection of research papers for world model
 
 - Iso-Dream: Isolating Noncontrollable Visual Dynamics in World Models, *Minting Pan, Xiangming Zhu, Yunbo Wang, Xiaokang Yang, Neurips 2022*,  [link](https://arxiv.org/abs/2205.13817)
   - dreamer, disentangle, background generalization.
-
 - DreamerPro: Reconstruction-Free Model-Based Reinforcement Learning with Prototypical Representations, *Fei Deng, Ingook Jang, Sungjin Ahn, ICML 2022,* [link](https://arxiv.org/abs/2110.14565)
   - dreamer, SwAV, representation enhancement.
 
-## Architectures
+---
 
-- Transformers are Sample-Efficient World Models, *preprint*, [link](https://openreview.net/forum?id=vhFu1Acb0xb)
+## Dynamic Modeling
+
+### Dreamer branch
+
+- Transformers are Sample-Efficient World Models, *Vincent Micheli, Eloi Alonso, François Fleuret, preprint 2022*, [link](https://openreview.net/forum?id=vhFu1Acb0xb)
+  - dreamer, discrete, atari
+
+- TransDreamer: Reinforcement Learning with Transformer World Models, *Chang Chen, Yi-Fu Wu, Jaesik Yoon, Sungjin Ahn, preprint 2022*, [link](https://arxiv.org/abs/2202.09481)
+- Dreaming with Transformers. *Catherine Zeng, Jordan Docter, Alexander Amini, Igor Gilitschenski, Ramin Hasani, Daniela Rus, AAAI 2022, Workshop on Reinforcement Learning in Games*, [link](http://aaai-rlg.mlanctot.info/papers/AAAI22-RLG_paper_24.pdf)
+
+---
+
+## Representation Learning
+
+### Dreamer branch
+
+- Masked World Models for Visual Control. *Younggyo Seo, Danijar Hafner, Hao Liu, Fangcheng Liu, Stephen James, Kimin Lee, Pieter Abbeel. CoRL 2022.* [link](https://arxiv.org/abs/2206.14244)
+  - dreamer, mae, representation learning.
+
+---
+
+## Transferability
+
+- Transfer RL across Observation Feature Spaces via Model-Based Regularization. *Yanchao Sun, Ruijie Zheng, Xiyao Wang, Andrew E Cohen, Furong Huang. ICLR 2022.* [link](https://openreview.net/forum?id=7KdAoOsI81C)
 
 # Utilities
 
