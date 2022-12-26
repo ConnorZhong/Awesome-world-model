@@ -42,10 +42,13 @@ This is a collection of research papers for world model
   - dreamer, mae, representation learning.
 
 ---
-
 ## Transferability
 
-- Transfer RL across Observation Feature Spaces via Model-Based Regularization. *Yanchao Sun, Ruijie Zheng, Xiyao Wang, Andrew E Cohen, Furong Huang. ICLR 2022.* [link](https://openreview.net/forum?id=7KdAoOsI81C)
+- Dynamic Update-to-Data Ratio: Minimizing World Model Overfitting. *Under Reveiw. ICLR 2023.* [link](https://openreview.net/forum?id=ZIkHSXzd9O7)
+
+---
+## Others
+- 
 
 # Utilities
 
