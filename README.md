@@ -47,7 +47,7 @@ This is a collection of research papers for world model
 - Dynamic Update-to-Data Ratio: Minimizing World Model Overfitting. *Under Reveiw. ICLR 2023.* [link](https://openreview.net/forum?id=ZIkHSXzd9O7)
 
 ---
-## Others
+## Language in World Model
 - 
 
 # Utilities
