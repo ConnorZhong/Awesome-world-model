@@ -9,7 +9,16 @@ This is a collection of research papers for world model
 - Utilities
 ```
 
-# World Model
+
+## World Models Meet Languages
+
+### Tutorials and Surveys
+- Language Models Meet World Models, *Zhiting Hu, Tianmin Shu, Neurips 2023*, [slides](), [pdf]()
+- A Survey of Reinforcement Learning Informed by Natural Language, *Jelena Luketina1, Nantas Nardelli, Gregory Farquhar, Tim Rocktäschel et al.*
+
+### External Soul Bones
+- Leveraging Pre-trained Large Language Models to Construct and Utilize World Models for Model-based Task Planning, *Lin Guan, Karthik Valmeekam, Sarath Sreedharan, Subbarao Kambhampati, Neurips 2023*
+- Language Models Meet World Models: Embodied Experiences Enhance Language Models, *Jiannan Xiang, Tianhua Tao, et al., Neurips 2023*
 
 ## Generalization
 
